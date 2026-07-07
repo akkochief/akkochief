@@ -17,8 +17,7 @@ languages:
   concurrent:   [go, erlang, scala, kotlin, java, cpp, rust]
   cloud:        [aws, azure, gcp, terraform, chef, puppet, docker, aws-cdk]
 
-```
-```bash
+
 #!/bin/bash
 echo "mail:     info@sefaakkoc.tr"
 echo "linkedin: linkedin.com/in/akkochief"
