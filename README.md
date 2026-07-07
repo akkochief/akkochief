@@ -1,4 +1,5 @@
-<img width="1074" height="222" alt="miaw (1)" src="https://github.com/user-attachments/assets/418aabe4-2b94-45ca-b2b3-cad1034a8628" />
+<img width="2148" height="444" alt="miaw (2148 x 444 piksel)" src="https://github.com/user-attachments/assets/55e69ade-14a8-42a7-a4b8-730d8208e39b" />
+
 
 
 
